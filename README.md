@@ -3,13 +3,11 @@ A simpler, pared-down version of a project I did for work.  This project checks 
 
 ----------
 HOW TO RUN
-----------
 
 Run the RegionalStringCleanerForm to try out the library.  You will only be able to use the EPC region settings for now.
 
--------------------------
+----------
 TEST STRINGS FOR THE FORM
--------------------------
 
 1) A string that will be accepted with no replacements and no truncations:
 ()+,-./0123456789:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 
